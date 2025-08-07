@@ -1,5 +1,4 @@
-****Ownership of power plants stranded by climate mitigation**
-**
+****Ownership of power plants stranded by climate mitigation****
 
 This repository contains scripts and a subset of data used in the manuscript: "Ownership of power plants stranded by climate mitigation."
 
