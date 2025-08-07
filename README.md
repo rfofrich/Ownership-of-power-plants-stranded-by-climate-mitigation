@@ -57,8 +57,7 @@ This repository contains scripts and a subset of data used in the manuscript:
 
 ## Reproduction
 
-The source code should reproduce the quantitative results presented in the manuscript if the scripts are run in the correct order. The source data can be found within the links provided in the manuscript.  
-Please reach out to the corresponding authors if you are having trouble with any sections of the code or if any inconsistencies are found.
+The source code should reproduce the quantitative results presented in the manuscript if the scripts are run in the correct order. The source data can be found within the links provided in the manuscript. Please reach out to the corresponding authors if you are having trouble with any sections of the code or if any inconsistencies are found.
 
 ## License
 
