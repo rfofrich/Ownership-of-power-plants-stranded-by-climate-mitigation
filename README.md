@@ -6,8 +6,8 @@ This repository contains scripts and a subset of data used in the manuscript:
 ## System Requirements
 
 ### Tested on
-- **MATLAB Versions:** R2023a, R2022a, R2021a/b  
-- **Operating System:** macOS Ventura 13.4.1  
+- **MATLAB Versions:** R2024b, R2023a, R2022a, R2021a/b  
+- **Operating System:** macOS Sequoia 15.5 
 
 ### Software
 - MATLAB is compatible with major platforms: Linux, macOS, and Windows.
